@@ -14,6 +14,7 @@ Compile it using DMD:
 
 ```bash
 dmd dice.d
+```
 
 ---
 
