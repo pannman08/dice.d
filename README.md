@@ -8,7 +8,7 @@ It rolls a 6-sided die using ASCII art.
 
 ## Requirements & Building
 
-If you want to use dice.d for yourself, you need to download the Digital Mars D compiler at https://dlang.org/download.html and it's compatible with Linux, MacOS, and Windows terminals/command prompts.
+If you want to use dice.d for yourself, you need to download the Digital Mars D compiler at https://dlang.org/download.html#dmd and it's compatible with Linux, MacOS, and Windows terminals/command prompts.
 
 Compile it using DMD:
 
