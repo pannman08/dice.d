@@ -1,4 +1,4 @@
-pragma(lib, "bcrypt");
+pragma(lib, "bcrypt"); // this is a Windows-only library, change if you're on Linux or MacOS
 
 import std.stdio;
 import std.random;
