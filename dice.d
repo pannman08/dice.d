@@ -1,4 +1,4 @@
-pragma(lib, "bcrypt"); // this is a Windows-only library, change if you're on Linux or MacOS
+pragma(lib, "bcrypt"); // links the Windows bcrypt library for random generation using the uniform() function, use an alternative library on Linux or MacOS systems
 
 import std.stdio;
 import std.random;
