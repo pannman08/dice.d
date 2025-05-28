@@ -75,7 +75,6 @@ string[] openingLines = [
     "Chance is the only rule that matters now."
 ];
 
-
 int declareIndex(string[] arr)
 {
     return cast(int) uniform(1, arr.length);
